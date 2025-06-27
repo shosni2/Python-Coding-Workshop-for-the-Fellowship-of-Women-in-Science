@@ -21,8 +21,6 @@ The session introduces foundational Python programming concepts through hands-on
 
 ---
 
-## 📌 Attribution
-
 This material was prepared by Aya Yusuf as part of the **FWIS initiative**, promoting women’s participation in STEM through accessible technical training.
 
 Licensed under CC0 1.0 — public domain dedication.
